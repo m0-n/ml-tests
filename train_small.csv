@@ -557,7 +557,7 @@ Instance,YearOfRecord,HousingSituation,CrimeLevel,WorkExperience,Satisfation,Gen
 556,1940,0,106,11,Average,other,19,Bahrain,1613472,seniormainframeprogrammeranalyst,Master,1,Black,158,0,7014.13
 557,1940,0,115,12,Average,female,24,Bahrain,26480,publicpolicyandtrainingcoordinator,Bachelor,0,Black,166,79966.75,84301.9
 558,1940,0,110,11,Happy,other,21,Bahrain,59981,plasterer,No,0,Brown,169,0,3706.74
-559,1940,0,113,11,Happy,#N/A,23,Bahrain,60098,plumber'shelper,Master,0,Red,150,0,5435
+559,1940,0,113,11,Happy,#N/A,23,Bahrain,60098,plumbershelper,Master,0,Red,150,0,5435
 560,1940,0,138,19,SomewhatHappy,male,46,Bahrain,1735861,penaltyprocessingunitcashier,Master,1,Black,158,0,7191.99
 561,1940,0,121,15,Average,#N/A,29,Bahrain,67497,Actress,Master,1,Black,153,0,5623.92
 562,1940,0,154,29,Average,male,72,Bahrain,85851,seniordatascientist,Master,1,Black,232,0,5633.94
@@ -952,7 +952,7 @@ Instance,YearOfRecord,HousingSituation,CrimeLevel,WorkExperience,Satisfation,Gen
 951,1940,0,77,19,Happy,other,46,Benin,81682,policyadvisor,Master,1,Black,158,0,1403.11
 952,1940,0,72,15,SomewhatHappy,unknown,36,Benin,1390370,marketingandsalesmanager,#N/A,0,Brown,177,0,1716.91
 953,1940,0,81,24,Average,female,56,Benin,817991,systemsanalyst,Master,0,Black,167,0,2856.16
-954,1940,0,81,22,Happy,other,55,Benin,963829,plumber'shelper,Bachelor,1,Black,184,0,2518.23
+954,1940,0,81,22,Happy,other,55,Benin,963829,plumbershelper,Bachelor,1,Black,184,0,2518.23
 955,1940,0,92,32,Happy,female,94,Benin,125209,humanresourcesanalyst,Bachelor,1,Blond,121,0,2434.66
 956,1940,0,66,11,SomewhatHappy,male,26,Benin,1885707,landscapearchitect,No,1,Brown,187,0,1956.1
 957,1940,0,56,9,Happy,male,16,Benin,8115,orderfiller,Bachelor,1,Black,205,0,914.17
@@ -990,7 +990,7 @@ Instance,YearOfRecord,HousingSituation,CrimeLevel,WorkExperience,Satisfation,Gen
 989,1940,0,62,11,Average,female,22,Benin,64624,procurementanalyst,Bachelor,1,Black,176,0,881.49
 990,1940,0,79,22,Average,other,50,Benin,5349,senioroperationsassociate,No,0,Black,184,74558.16,75576.38
 991,1940,0,71,14,Happy,male,33,Benin,424799,occupationaltherapistassistant,No,1,Red,194,0,1734.17
-992,1940,0,65,14,Average,male,25,Benin,86411,sheriff'spatrolofficer,Master,0,Black,180,0,1734.2
+992,1940,0,65,14,Average,male,25,Benin,86411,sheriffspatrolofficer,Master,0,Black,180,0,1734.2
 993,1940,0,80,21,Happy,male,53,Benin,32782,outbreakdataanalyst,Bachelor,1,Blond,205,0,1591.91
 994,1940,0,73,17,Average,female,38,Benin,819271,seniornetworkspecialist,#N/A,0,Blond,166,0,1461.17
 995,1940,0,81,21,Happy,other,54,Benin,566617,loancounselor,No,0,Brown,206,0,1982.12
