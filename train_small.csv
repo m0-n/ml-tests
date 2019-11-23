@@ -1,4 +1,4 @@
-Instance,Year of Record,Housing Situation,Crime Level in the City of Employement,Work Experience in Current Job,Satisfation with employer,Gender,Age,Country,Size of City,Profession,University Degree,Wears Glasses,Hair Color,Height,Yearly Income in addition to Salary,Total Yearly Income
+Instance,YearOfRecord,HousingSituation,CrimeLevel,WorkExperience,Satisfation,Gender,Age,Country,SizeOfCity,Profession,UniversityDegree,WearsGlasses,HairColor,Height,YearlyIncomeInAddition,TotalYearlyIncome
 1,1940,0,33,17,Unhappy,other,45,Afghanistan,25179,group head,No,1,Black,182,0 EUR,6182.05
 2,1940,0,25,4.9,Unhappy,female,17,Afghanistan,2278204,heavy vehicle and mobile equipment service technician,No,0,Blond,172,0 EUR,6819.69
 3,1940,0,34,21,Unhappy,female,48,Afghanistan,822134,sorter,Bachelor,0,Blond,144,0 EUR,8663.53
