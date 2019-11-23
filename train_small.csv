@@ -15,7 +15,7 @@ Instance,YearOfRecord,HousingSituation,CrimeLevel,WorkExperience,Satisfation,Gen
 14,1940,0,51,8,Happy,male,15,Albania,10724,janitorialworker,No,0,Blond,196,0,1958.56
 15,1940,0,56,10,SomewhatHappy,female,20,Albania,1118504,policeman,Bachelor,1,Black,159,0,3812.35
 16,1940,0,80,29,Average,male,72,Albania,91154,registerednurse,#N/A,1,Brown,203,0,1930.5
-17,1940,0,66,14,Happy,male,34,Albania,702029,informationsecurityidentity&accessmanager,Bachelor,0,Black,212,0,3506.28
+17,1940,0,66,14,Happy,male,34,Albania,702029,informationsecurityidentityaccessmanager,Bachelor,0,Black,212,0,3506.28
 18,1940,0,74,23,Average,other,53,Albania,1260228,seniorprojectofficer,#N/A,0,Blond,172,0,2824.78
 19,1940,0,58,11,SomewhatHappy,male,22,Albania,1390382,packager,Master,1,Blond,174,0,4625.05
 20,1940,0,59,12,SomewhatHappy,male,23,Albania,1961433,parksenforcementpatrol,PhD,0,Red,219,0,5290.37
@@ -128,7 +128,7 @@ Instance,YearOfRecord,HousingSituation,CrimeLevel,WorkExperience,Satisfation,Gen
 127,1940,0,16,14,Happy,female,43,Austria,39363,complianceofficer,No,1,Black,172,0,251.99
 128,1940,0,15,17,Average,unknown,35,Austria,566617,spaceanalyst,Bachelor,0,#N/A,161,0,1005.61
 129,1940,0,13,8,SomewhatHappy,other,20,Austria,1408496,frontenddeveloper,#N/A,0,Black,205,0,678.88
-130,1940,0,14,13,Average,#N/A,26,Austria,809,recruiting&onboardingcoordinator,Bachelor,0,Black,178,0,288.78
+130,1940,0,14,13,Average,#N/A,26,Austria,809,recruitingonboardingcoordinator,Bachelor,0,Black,178,0,288.78
 131,1940,0,17,20,SomewhatHappy,other,51,Austria,1088925,mailroomcontrolclerk,Master,0,Black,195,0,1791.11
 132,1940,0,16,17,Happy,male,44,Austria,686176,mappingtechnician,Bachelor,1,Red,167,0,963.97
 133,1940,0,17,23,Average,female,56,Austria,300295,schoolmentalhealthtrainingcoordinator,#N/A,1,Black,149,0,758.01
@@ -333,7 +333,7 @@ Instance,YearOfRecord,HousingSituation,CrimeLevel,WorkExperience,Satisfation,Gen
 332,1940,0,19,35,Average,other,87,Austria,491069,triagecoordinator,Bachelor,0,Black,163,0,1455.02
 333,1940,0,17,22,Average,unknown,52,Austria,84729,seniorestimator,#N/A,1,Red,192,0,323.01
 334,1940,0,13,9,Happy,male,22,Austria,36847,helpdeskrepresentative,Bachelor,1,Red,148,0,280.93
-335,1940,0,15,15,Average,other,31,Austria,66235,safety&equipmenttrainingspecialist,PhD,0,Black,179,0,509.75
+335,1940,0,15,15,Average,other,31,Austria,66235,safetyequipmenttrainingspecialist,PhD,0,Black,179,0,509.75
 336,1940,0,17,20,Average,other,46,Austria,674729,rigger,No,0,Brown,161,0,937.66
 337,1940,0,15,15,Average,other,30,Austria,1556892,rebarworkers,Master,1,Blond,204,0,1682.35
 338,1940,0,12,8,Happy,male,15,Austria,886769,medicalassistant,#N/A,1,Black,176,0,516.55
@@ -433,7 +433,7 @@ Instance,YearOfRecord,HousingSituation,CrimeLevel,WorkExperience,Satisfation,Gen
 432,1940,0,137,14,SomewhatHappy,male,34,Azerbaijan,1064132,locomotiveengineer,Master,1,Blond,185,0,1784.25
 433,1940,0,157,24,Average,other,57,Azerbaijan,853460,safeeventcoordinator,Bachelor,1,Blond,195,0,1042.86
 434,1940,0,150,21,Average,female,47,Azerbaijan,10436,seniorprojectcontrolsspecialist,Bachelor,1,Black,163,0,348.3
-435,1940,0,158,24,Average,male,58,Azerbaijan,1686176,safety&equipmenttrainingspecialist,Bachelor,0,Brown,205,0,1944.59
+435,1940,0,158,24,Average,male,58,Azerbaijan,1686176,safetyequipmenttrainingspecialist,Bachelor,0,Brown,205,0,1944.59
 436,1940,0,135,13,Happy,other,32,Azerbaijan,56028,geoscientist,Bachelor,0,#N/A,198,0,249.59
 437,1940,0,138,15,SomewhatHappy,female,35,Azerbaijan,1315653,chiefreviewofficer,Bachelor,0,Blond,157,0,1584.66
 438,1940,0,137,17,#N/A,female,34,Azerbaijan,52063,staffanalystii,No,0,Brown,173,0,311.6
@@ -450,7 +450,7 @@ Instance,YearOfRecord,HousingSituation,CrimeLevel,WorkExperience,Satisfation,Gen
 449,1940,0,105,11,Average,male,15,Azerbaijan,1314844,structuralironandsteelworker,PhD,0,Black,193,91757.56,93874.41
 450,1940,0,148,16,Happy,female,45,Azerbaijan,34921,engineeringmanager,PhD,1,Blond,158,1692.85,2075.77
 451,1940,0,119,9,Happy,male,21,Azerbaijan,155846,grouphead,Master,0,Black,187,0,974.76
-452,1940,0,155,22,Average,male,53,Azerbaijan,823825,safety&equipmenttrainingspecialist,Bachelor,0,Blond,162,0,1048.28
+452,1940,0,155,22,Average,male,53,Azerbaijan,823825,safetyequipmenttrainingspecialist,Bachelor,0,Blond,162,0,1048.28
 453,1940,0,144,19,#N/A,male,40,Azerbaijan,51099,strategicaccountmanager,Master,0,Black,200,0,664.44
 454,1940,0,145,15,Happy,female,41,Azerbaijan,21842,fieldoperationstrainingcoordinator,Bachelor,1,Blond,150,0,252.61
 455,1940,0,120,13,Average,male,22,Azerbaijan,31331,socialscienceresearchassistant,Bachelor,0,Blond,173,0,264.81
@@ -530,7 +530,7 @@ Instance,YearOfRecord,HousingSituation,CrimeLevel,WorkExperience,Satisfation,Gen
 529,1940,0,134,14,SomewhatHappy,male,31,Azerbaijan,1219735,pestcontrolaide,Bachelor,1,Brown,189,0,1469.53
 530,1940,0,113,10,Average,male,18,Azerbaijan,551702,procurementcontractingofficer,Master,0,Blond,166,0,1057.6
 531,1940,0,134,13,Happy,male,31,Azerbaijan,872815,officemanager,0,0,Brown,164,0,1533.73
-532,1940,0,146,16,Happy,male,42,Azerbaijan,57317,informationsecurityarchitecture&engineeringmanager,Master,0,Brown,186,0,372.91
+532,1940,0,146,16,Happy,male,42,Azerbaijan,57317,informationsecurityarchitectureengineeringmanager,Master,0,Brown,186,0,372.91
 533,1940,0,122,12,Average,other,23,Azerbaijan,1771430,qualitymanagementspecialist,Bachelor,1,Black,161,0,1625.65
 534,1940,0,119,12,Average,female,21,Azerbaijan,699276,teamcoachteamleader,No,1,Blond,153,0,923.79
 535,1940,0,135,12,SomewhatHappy,male,32,Azerbaijan,1099755,glazier,No,1,Red,155,0,1151.25
@@ -925,7 +925,7 @@ Instance,YearOfRecord,HousingSituation,CrimeLevel,WorkExperience,Satisfation,Gen
 924,1940,0,77,19,Happy,other,45,Benin,46357,preplacementnursepractitioner,Bachelor,0,Black,161,0,1530.45
 925,1940,0,72,15,SomewhatHappy,female,36,Benin,1624454,petroleumtechnician,Master,0,Black,164,0,2978.88
 926,1940,0,79,20,SomewhatHappy,male,50,Benin,1144415,patternmaker,Master,1,Blond,169,0,2928.78
-927,1940,0,88,26,Happy,other,79,Benin,363869,cranes&derricksinspector,Master,1,Blond,187,0,2464.19
+927,1940,0,88,26,Happy,other,79,Benin,363869,cranesderricksinspector,Master,1,Blond,187,0,2464.19
 928,1940,0,61,11,Average,other,20,Benin,1697531,rancher,#N/A,0,Black,172,0,1621.79
 929,1940,0,57,6.3,Happy,female,17,Benin,707515,orderfiller,No,0,Brown,171,0,1555.01
 930,1940,0,71,15,Average,other,34,Benin,989431,programexecutive,No,1,Blond,173,0,1754.17
